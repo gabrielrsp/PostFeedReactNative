@@ -1,0 +1,3 @@
+rootProject.name = 'postfeed'
+
+include ':app'
